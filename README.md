@@ -40,7 +40,7 @@ pip install -r requirements.txt
    db = mysql.connector.connect(
        host="localhost",
        user="root",
-       password="Nandini@24",
+       password="**********",
        database="face"
    )
    ```
@@ -80,7 +80,7 @@ smart-class-attendance/
 - **Nandini** - [GitHub Profile](https://github.com/Nandini2455)
 
 ## 💬 Contact
-For queries, reach out via email at [your-email@example.com](mailto:pathivadanandini24@gmail.com) or open an issue on GitHub.
+For queries, reach out via email at [pathivadanandini24@gmail.com](mailto:pathivadanandini24@gmail.com) or open an issue on GitHub.
 
 ---
 Made with ❤️ by Nandini 🚀
